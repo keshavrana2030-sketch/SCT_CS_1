@@ -51,4 +51,4 @@ B.Tech CSE Student | Aspiring Cybersecurity Engineer
 
 ---
 
-*This project was completed as part of the Data Science Internship Program.*
+*This project was completed as part of the CyberSecurity Internship Program.*
